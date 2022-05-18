@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="1.281 2 21.915 23.352" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Roboto Condensed">@import url(https://fonts.googleapis.com/css2?family=Roboto+Condensed%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C700%3B1%2C300%3B1%2C400%3B1%2C700&amp;display=swap);</style>
+  </defs>
+  <path d="M22 2H2v2.73l7.02 6.017L10.043 22h3.914l1.023-11.253L22 4.73zm-1 1v1H3V3zm-.852 2l-5.833 5h-4.63L3.852 5zm-7.105 16h-2.086l-.91-10h3.905z" style="fill: rgb(108, 108, 108);"/>
+  <text style="fill: rgb(108, 108, 108); font-family: &quot;Roboto Condensed&quot;; font-size: 13.2px; word-spacing: 4.6px; white-space: pre;" transform="matrix(0.968699, 0, 0, 1, -0.365911, 1.457786)" x="1.7" y="20.577">B G</text>
+</svg>
