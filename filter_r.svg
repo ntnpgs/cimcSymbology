@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"> -->
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M29,4L3,4L3,6.725L12.031,14.753L14.066,29L17.934,29L19.969,14.753L29,6.725L29,4ZM28,5L28,6L4,6L4,5L28,5ZM27.185,7L19.31,14L12.69,14L4.815,7L27.185,7ZM17.066,28L14.934,28L13.076,15L18.924,15L17.066,28Z" style="fill:rgb(108,108,108);fill-rule:nonzero;stroke:rgb(108,108,108);stroke-opacity:0;stroke-width:1px;"/>
+    <rect x="0" y="0" width="32" height="32" style="fill:none;fill-rule:nonzero;"/>
+    <g transform="matrix(1,0,0,1,16.1745,-0.167276)">
+        <text x="2.987px" y="29.168px" style="font-family:'AvenirNextLTPro-Regular', 'Avenir Next LT Pro', sans-serif;font-size:19.341px;fill:rgb(108,108,108);">R</text>
+    </g>
+</svg>
